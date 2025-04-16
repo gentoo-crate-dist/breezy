@@ -12,7 +12,6 @@ build/
 *~
 /target
 /brz
-/Cargo.lock
 *.cpython-*.so
 .testrepository
 selftest.log
